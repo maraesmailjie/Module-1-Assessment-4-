@@ -1,0 +1,20 @@
+th {
+     font-weight: 800;
+    background-color: #81F7BE;
+    color: white
+}
+
+table{
+     font-family : Helvetica, inherit;
+    border-collapse:collapse;
+    border-width   : 1px;
+      border-style   :double;
+      border-color   : #2695A6;
+    text-align: center;
+}
+h1{
+    color: cadetblue;
+    font-size: 20px;
+    font-family: halvetica, cursive;
+    text-align:inherit;
+}
